@@ -1,0 +1,64 @@
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+body{
+  text-align: center;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+#title{
+  font-family: 'Alfa Slab One';font-size: 22px;
+
+}
+#free{
+  font-family: 'Lobster';font-size: 20px;
+
+}
+h1 {
+    text-align: center;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-right: auto;
+  margin: 0 auto;
+}
+ figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+#img-caption{
+  font-family: 'Mansalva';font-size: 14px;
+}
+#headline{
+  text-align: center;
+  font-family: 'Alfa Slab One';font-size: 22px;
+
+}
+li {
+  margin: 16px 0;
+  text-align: center;
+  text-align:justify;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  padding-inline-start: 40px;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
