@@ -25,12 +25,13 @@ h1 {
    display: block;
 }
 label {
+   
    font-family: 'Asul';font-size: 22px;
-
    display: flex;
    align-items: center;
    font-size: 1.125rem;
    margin-bottom: 0.5rem;
+   
 }
 .form-group {
    margin: 0 auto 1.25rem auto;
