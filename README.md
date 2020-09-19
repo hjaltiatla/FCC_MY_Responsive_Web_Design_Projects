@@ -5,7 +5,7 @@
 * Build a Survey Form
 [Survey Form](https://codepen.io/HjaltiAtla/full/WNwJeoQ "Survey Form")
 
-* Build a Product Landing Page
-[Product Landing page](https://codepen.io/HjaltiAtla/full/gOrdgMy "Product Landing Page - WIP")
+* Build a Product Landing Page - WIP
+[Product Landing page](https://codepen.io/HjaltiAtla/full/gOrdgMy "Product Landing Page")
 
 
