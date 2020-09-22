@@ -1,15 +1,30 @@
 #hero{
     text-align: center;
     margin: 5px;
-    padding: 15px 0;
+    padding: 95px 0;
     
 }
-.footer {
-    left: 0;
-    bottom: 0;
+.logo {
+    width: 60vw;
+}
+.logo > img {
     width: 100%;
+    height: 100%;
+    max-width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-  }
+    margin-left: 20px;
+}
+#nav-bar
+    {
+        position: fixed;
+        top: 0px;
+        width: 100%;
+    }​
+
+
   h2{
     font-family: 'Squada One', cursive;
   }    
@@ -54,8 +69,14 @@
     text-align: justify;
 }
 
-#top-button {
+#submit {
 
     margin: 15px 0;
     border: 0;
 }
+
+
+#copyright {
+    
+    text-align: center;
+  }
