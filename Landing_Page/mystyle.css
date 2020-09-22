@@ -2,6 +2,7 @@
     text-align: center;
     margin: 5px;
     padding: 15px 0;
+    
 }
 .footer {
     left: 0;
@@ -9,7 +10,9 @@
     width: 100%;
     text-align: center;
   }
-
+  h2{
+    font-family: 'Squada One', cursive;
+  }    
   #pricing {
     margin-top: 60px;
     display: flex;
@@ -51,3 +54,8 @@
     text-align: justify;
 }
 
+#top-button {
+
+    margin: 15px 0;
+    border: 0;
+}
