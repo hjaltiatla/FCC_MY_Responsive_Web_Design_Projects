@@ -10,3 +10,6 @@
 
 * Build a Technical Documentation Page
 [Technical Documentation page](https://codepen.io/HjaltiAtla/full/rNeodKO "Technical Documentation page")
+
+* Build a Personal Portfolio  Page - Work in progress
+[Personal Portfolio  page](https://codepen.io/HjaltiAtla/full/rNeRYpb"Personal Portfolio  page")
