@@ -8,5 +8,5 @@
 * Build a Product Landing Page 
 [Product Landing page](https://codepen.io/HjaltiAtla/full/gOrdgMy "Product Landing Page")
 
-* Build a Technical Documentation Page - Work in Progress
+* Build a Technical Documentation Page
 [Technical Documentation page](https://codepen.io/HjaltiAtla/full/rNeodKO "Technical Documentation page")
