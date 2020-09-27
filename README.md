@@ -8,7 +8,7 @@
 * Build a Product Landing Page 
 [Product Landing page](https://codepen.io/HjaltiAtla/full/gOrdgMy "Product Landing Page")
 
-* Build a Technical Documentation Page
+* Build a Technical Documentation Page - Work in progress
 [Technical Documentation page](https://codepen.io/HjaltiAtla/full/rNeodKO "Technical Documentation page")
 
 * Build a Personal Portfolio  Page - Work in progress
