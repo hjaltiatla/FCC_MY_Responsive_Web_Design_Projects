@@ -7,6 +7,8 @@
     height: 100%;
     border-right: solid;
     border-color: rgba(0, 22, 22, 0.4);
+    
+
 }
 #navbar a {
     display: block;
@@ -73,3 +75,4 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
