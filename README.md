@@ -13,3 +13,5 @@
 
 * Build a Personal Portfolio  Page - Doesn't render correctly via Codepen , need to use web browser and  the project folder content or docker script
 [Personal Portfolio  page](https://codepen.io/HjaltiAtla/full/rNeRYpb "Personal Portfolio  page")
+
+![FreeCodeCamp Certificate](https://i.imgur.com/2GglwYT.png)
