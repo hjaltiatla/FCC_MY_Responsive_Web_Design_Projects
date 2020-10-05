@@ -11,5 +11,5 @@
 * Build a Technical Documentation Page
 [Technical Documentation page](https://codepen.io/HjaltiAtla/full/rNeodKO "Technical Documentation page")
 
-* Build a Personal Portfolio  Page - Work in progress
+* Build a Personal Portfolio  Page - Doesn't render correctly via Codepen , need to use web browser and  the project folder content or docker script
 [Personal Portfolio  page](https://codepen.io/HjaltiAtla/full/rNeRYpb "Personal Portfolio  page")
