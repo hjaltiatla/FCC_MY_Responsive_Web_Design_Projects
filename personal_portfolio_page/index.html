@@ -1,4 +1,5 @@
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +14,14 @@
 <script src="https://kit.fontawesome.com/a2e6baf00e.js" crossorigin="anonymous"></script>
 <!-- Font awesome CDN  ENDS-->
 
+<!-- Google Fonts -->
+<link
+  href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&display=swap"
+  rel="stylesheet"/>
+<link
+  href="https://fonts.googleapis.com/css?family=Raleway:700&display=swap"
+  rel="stylesheet"/>
+<!-- Google Fonts  ENDS-->
 
 
 <!-- My stylesheet-->
@@ -20,79 +29,158 @@
 <title>Personal Portfolio Webpage</title>
 </head>
 <body>
-<!-- Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-        
-            <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Work</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
-            </li>
-          </ul>
-         
-        </div>
-      </nav>
-<!-- Navbar ENDS -->
-
-<!-- START WELCOME SECTION -->
-<section id="welcome-section" class="welcome-section">
-  <h1>Hey I am Hjalti Geir Atlason</h1>
-  <p>a web developer</p>
-</section>
-
-<!-- END WELCOME SECTION -->
-
-<!-- START PROJECTS SECTION -->
-<section id="projects" class="projects-section">
-  <h2 class="projects-section-header">These are some of my projects</h2>
-
-  <div class="projects-grid">
-    
-  </div>
-
-</section>
-
-<!-- END PROJECTS SECTION -->
-
-<!-- START CONTACT SECTION -->
-<section id="contact" class="contact-section">
-  <div class="contact-section-header">
-    <h2>Let's work together...</h2>
-  </div>
-  <div class="contact-links">
-    <a id="profile-link" href="https://www.linkedin.com/in/hjalti1/" target="_blank" class="btn contact-details"><i class="fab fa-linkedin"></i> Linkedin</a>
-    <a id="profile-link" href="https://github.com/hjaltiatla" target="_blank" class="btn contact-details"><i class="fab fa-github"></i> GitHub</a>
-    <a href="mailto:hjalti@hjalti.me" class="btn contact-details"><i class="fas fa-at"></i> Send a mail</a>
-    <a href="tel:00354-865-7956" class="btn contact-details"><i class="fas fa-mobile-alt"></i> Call me</a>
-  </div>
-</section>
-
-<!-- END CONTACT SECTION -->
-
-<!-- START FOOTER SECTION -->
-<footer>
+  <div id=navbar>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
  
-  <p>
-    <i class="far fa-copyright"></i>
-     Hjalti Geir Atlason
-  </p>
-</footer>
-
-<!-- END FOOTER SECTION -->
-
-
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+       
+        <li class="nav-item">
+        <a href="#welcome-section">About</a>
+        </li>
+       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+       
+        <li class="nav-item">
+  <a href="#projects">Work</a>
+        </li>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+       
+        <li class="nav-item">
+          <a href="#contact">Contact</a>
+        </li>
+  
+     
+      </ul>
     
-
-
-</body>
-</html>
+    </div>
+  </nav>
+</div>
+  
+  <!-- END NAV -->
+  
+  <!-- START WELCOME SECTION -->
+  
+  <section id="welcome-section" class="welcome-section">
+    <h1>Hey I am Hjalti</h1>
+    <p>a web developer</p>
+  </section>
+  
+  <!-- END WELCOME SECTION -->
+  
+  <!-- START PROJECTS SECTION -->
+  
+  <section id="projects" class="projects-section">
+    <h2 class="projects-section-header">These are some of my projects</h2>
+  
+    <div class="projects-grid">
+      <a
+        href="https://codepen.io/HjaltiAtla/full/JjXpVGW"
+        target="_blank"
+        class="project project-tile"
+      >
+     
+        <p class="project-title">
+          <span class="code">&lt;</span>
+          Tribute Page
+          <span class="code">&#47;&gt;</span>
+        </p>
+      </a>
+      <a
+        href="https://codepen.io/HjaltiAtla/full/WNwJeoQ"
+        target="_blank"
+        class="project project-tile"
+      >
+       
+        <p class="project-title">
+          <span class="code">&lt;</span>
+          Survey Form
+          <span class="code">&#47;&gt;</span>
+        </p>
+      </a>
+      <a
+        href="https://codepen.io/HjaltiAtla/full/gOrdgMy"
+        target="_blank"
+        class="project project-tile"
+      >
+      
+        <p class="project-title">
+          <span class="code">&lt;</span>
+          Product Landing page
+          <span class="code">&#47;&gt;</span>
+        </p>
+      </a>
+      <a
+        href="https://codepen.io/HjaltiAtla/full/rNeodKO"
+        target="_blank"
+        class="project project-tile"
+      >
+       
+        <p class="project-title">
+          <span class="code">&lt;</span>
+          Technical Documentation page
+          <span class="code">&#47;&gt;</span>
+        </p>
+      </a>
+      
+       
+        
+    </div>
+  
+    <a
+      href="https://codepen.io/HjaltiAtla/"
+      class="btn btn-show-all"
+      target="_blank"
+      >Show all<i class="fas fa-chevron-right"></i
+    ></a>
+  </section>
+  
+  <!-- END PROJECTS SECTION -->
+  
+  <!-- START CONTACT SECTION -->
+  
+  <section id="contact" class="contact-section">
+    <div class="contact-section-header">
+      <h2>Let's work together...</h2>
+      <p>You can contact me on various platforms</p>
+    </div>
+    <div class="contact-links">
+      <a
+        href="https://www.linkedin.com/in/hjalti1/"
+        target="_blank"
+        class="btn contact-details"
+        ><i class="fab fa-linkedin-in"></i> Linkedin</a
+      >
+      <a
+        id="profile-link"
+        href="https://github.com/hjaltiatla"
+        target="_blank"
+        class="btn contact-details"
+        ><i class="fab fa-github"></i> GitHub</a
+      >
+   
+      <a href="mailto:hjalti@hjalti.me" class="btn contact-details"
+        ><i class="fas fa-at"></i> Send a mail</a
+      >
+      <a href="tel:00354-865-7956" class="btn contact-details"
+        ><i class="fas fa-mobile-alt"></i> Call me</a
+      >
+    </div>
+  </section>
+  
+  <!-- END CONTACT SECTION -->
+  
+  <!-- START FOOTER SECTION -->
+  
+  <footer>
+  
+    <p>
+      &copy;   Hjalti Geir Atlason
+    </p>
+  </footer>
+  
